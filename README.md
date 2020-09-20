@@ -1,0 +1,1 @@
+# django-generate-password-hash-command
